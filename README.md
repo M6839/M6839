@@ -1,6 +1,6 @@
     # Hii 👋I'm Kiran Kumar Madham
 _________________________________________________________________________________
-- 👋 Hi, I’m M. Kiran Kumar
+- 👋 Hi, I’m M Kiran Kumar
 - 👀 I’m a fullstack developer
 - 🌱 I’m currently learning fullstack development
 - 💞️ I’m looking to collaborate on fullstack development projects
